@@ -1,0 +1,9 @@
+.center
+  img src="logo.png"
+
+  h1
+    | A second page
+
+
+  link-to "login"
+    | BACK!

@@ -1,0 +1,6 @@
+=outlet
+
+
+.menu
+  a href="hide-app://true"
+    | Hide

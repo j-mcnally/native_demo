@@ -1,0 +1,9 @@
+.center
+  img src="logo.png"
+
+  h1
+    | Welcome to Ember
+
+
+  link-to "app"
+    | GO!
